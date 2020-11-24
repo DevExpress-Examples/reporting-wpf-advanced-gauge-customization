@@ -1,8 +1,8 @@
 ﻿Files to look at:
 
-* [MainWindow.xaml.cs](https://gitserver/polevikov.eugene/Examples/-/blob/2020.2/XtraReports/Win/Reporting-Advanced-Gauge-Customization/MainWindow.xaml.cs)
+* [MainWindow.xaml.cs](https://github.com/DevExpress-Examples/Reporting-Advanced-Gauge-Customization/blob/2020.2/CS/MainWindow.xaml.cs) ([MainWindow.xaml.vb](https://github.com/DevExpress-Examples/Reporting-Advanced-Gauge-Customization/blob/2020.2/VB/MainWindow.xaml.vb))
 
-![](https://gitserver/polevikov.eugene/Examples/-/raw/2020.2/XtraReports/Win/Reporting-Advanced-Gauge-Customization/gauge-progress-bar.png)
+![](https://raw.githubusercontent.com/DevExpress-Examples/Reporting-Advanced-Gauge-Customization/2020.2/CS/gauge-progress-bar.png)
 
 # Advanced Gauge Customization
 
@@ -17,7 +17,7 @@ IDashboardGauge gauge = gaugeControl.Gauge;
 gauge.Scale.MajorTickmark.FormatString = "{0}%";
 ```
 
-![](https://gitserver/polevikov.eugene/Examples/-/raw/2020.2/XtraReports/Win/Reporting-Advanced-Gauge-Customization/create-gauge-in-code-example-2.png)
+![](https://raw.githubusercontent.com/DevExpress-Examples/Reporting-Advanced-Gauge-Customization/2020.2/CS/create-gauge-in-code-example-2.png)
 
 The example in this repository shows how to customize the **XRGauge** control to create a progress bar:
 
