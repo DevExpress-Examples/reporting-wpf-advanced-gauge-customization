@@ -6,7 +6,7 @@
 
 The example shows how to customize the `XRGauge` control to create a progress bar.
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/Reporting-Advanced-Gauge-Customization/2020.2/CS/gauge-progress-bar.png)
+![](images/gauge-progress-bar.png)
 
 In the Report Designer, you can set up the basic [`XRGauge`](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XRGauge) settings: view, style, theme, actual and target values, minimum and maximum values. For advanced customization, you can use the `XRGauge`'s
 `Gauge` property that gives you access to the `XRGauge`'s internal model. The following example demonstrates how to use the `Gauge` property
@@ -18,11 +18,12 @@ IDashboardGauge gauge = gaugeControl.Gauge;
 gauge.Scale.MajorTickmark.FormatString = "{0}%";
 ```
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/Reporting-Advanced-Gauge-Customization/2020.2/CS/create-gauge-in-code-example-2.png)
+![](images/create-gauge-in-code-example-2.png)
 
 The example in this repository shows how to customize the `XRGauge` control to create a progress bar:
 
 1. Create a linear gauge:
+
     ```
     XRGauge gauge = new XRGauge() {
         ViewType = DashboardGaugeType.Linear,
@@ -31,6 +32,7 @@ The example in this repository shows how to customize the `XRGauge` control to c
     };
     ```
 2. Customize the gauge's elements:
+
     ```
     IDashboardGauge gaugeControl = gauge.Gauge;
     var gaugeElements = gaugeControl.Elements;
