@@ -1,4 +1,4 @@
-﻿<Application x:Class="Reporting_Advanced_Gauge_Customization.App"
+<Application x:Class="Reporting_Advanced_Gauge_Customization.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:Reporting_Advanced_Gauge_Customization"
