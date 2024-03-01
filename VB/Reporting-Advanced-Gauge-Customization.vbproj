@@ -191,7 +191,6 @@
       <DependentUpon>XtraReport1.vb</DependentUpon>
     </EmbeddedResource>
     <None Include="Readme.md" />
-    <None Include="sync.json" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
