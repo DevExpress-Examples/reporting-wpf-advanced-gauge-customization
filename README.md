@@ -57,7 +57,7 @@ The example in this repository shows how to customize the `XRGauge` control to c
 - [Visual Elements](https://docs.devexpress.com/WindowsForms/18208/controls-and-libraries/gauges/concepts/visual-elements)
 - [Customize Gauges At Runtime](https://docs.devexpress.com/WindowsForms/18249/controls-and-libraries/gauges/examples#at-runtime).
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-advanced-gauge-customization&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-advanced-gauge-customization&~~~was_helpful=no)
 
